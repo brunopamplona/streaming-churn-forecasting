@@ -1,2 +1,2 @@
 # streaming-churn-forecasting
- modelo de churn com features comportamentais de engajamento, calibração por cohort, threshold de intervenção.
+ Churn model with behavioral engagement features, cohort-level calibration, and intervention threshold optimization.
